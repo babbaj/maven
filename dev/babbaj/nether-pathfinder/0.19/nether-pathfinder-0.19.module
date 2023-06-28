@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.babbaj",
+    "module": "nether-pathfinder",
+    "version": "0.19",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "nether-pathfinder-0.19.jar",
+          "url": "nether-pathfinder-0.19.jar",
+          "size": 1394779,
+          "sha512": "3c527cd0613d6b50f3e86eb3b2a6017d65fcbfd06675a0a687906d742014f2e34e94279ddffea03799403cc2f85087a81bba59aabeb253da734ba71698e62d0a",
+          "sha256": "e094fe71c3be86036e1c99e2c4a23d05b6e6aed4f8429cbd476a836d47e42940",
+          "sha1": "b00072eab16f031982e385fb0df4bb6a10fa0606",
+          "md5": "bebe5d6c682791a5379a68b851d8892e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nether-pathfinder-0.19.jar",
+          "url": "nether-pathfinder-0.19.jar",
+          "size": 1394779,
+          "sha512": "3c527cd0613d6b50f3e86eb3b2a6017d65fcbfd06675a0a687906d742014f2e34e94279ddffea03799403cc2f85087a81bba59aabeb253da734ba71698e62d0a",
+          "sha256": "e094fe71c3be86036e1c99e2c4a23d05b6e6aed4f8429cbd476a836d47e42940",
+          "sha1": "b00072eab16f031982e385fb0df4bb6a10fa0606",
+          "md5": "bebe5d6c682791a5379a68b851d8892e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nether-pathfinder-0.19-sources.jar",
+          "url": "nether-pathfinder-0.19-sources.jar",
+          "size": 2471,
+          "sha512": "feeb742f16512ca0650ca9139f673e5a690685c7ac42871d962cc6c758d282899dedfbb158781c44cecfc310f36c3006d68ee19f9791fb1270618017ea205188",
+          "sha256": "d5d7cb270a6c7e803c55a05dedfd92758a450e05f078f29878f808ed644e5ebd",
+          "sha1": "0d5129a8cc0b0ff641080d03170142c187ab03f4",
+          "md5": "a7f6642aa231a74625c698eed6f111ff"
+        }
+      ]
+    }
+  ]
+}
